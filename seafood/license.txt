@@ -1,0 +1,8 @@
+Model Information:
+* title:	Seafood
+* source:	https://sketchfab.com/3d-models/seafood-38eed1ce48204d4496a8482286d518b8
+* author:	omw100 (https://sketchfab.com/omw100)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

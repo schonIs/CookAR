@@ -1,0 +1,8 @@
+Model Information:
+* title:	Hamburger
+* source:	https://sketchfab.com/3d-models/hamburger-82eba55b545247c09da3b528cc17fcac
+* author:	DimenVision (https://sketchfab.com/DimenVision)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
